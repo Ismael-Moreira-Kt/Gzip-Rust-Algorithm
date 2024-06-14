@@ -4,7 +4,7 @@ This project is a simple script written in Rust that takes an input file and com
 
 ## Prerequisites
 <ul>
-    <li><b><a href="https://maven.apache.org/download.cgi">Cargo:</a></b> 1.78.0</li>
+    <li><b><a href="https://www.rust-lang.org/tools/install">Cargo:</a></b> 1.78.0</li>
     <li><b><a href="https://www.git-scm.com/downloads">Git:</a></b> 2.39.2</li>
 </ul>
 
